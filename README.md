@@ -1,4 +1,5 @@
-# RealG Safety Website
+# RealG Landing Page
+![RealG Logo](assets/RealG%20logo.jpg)
 
 This is the official website for RealG, a product that provides safety solutions.
 
